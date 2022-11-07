@@ -1,0 +1,10 @@
+ n=int(input("enter the no of numbers"))
+l=[]
+for i in range(n):
+    l.append(int(input()))
+    c=min()
+    d=max()
+    e=sum()
+    f+n
+    print("c,d,f")
+    
